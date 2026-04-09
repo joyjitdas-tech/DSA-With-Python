@@ -1,4 +1,4 @@
-#C
+#Implement Queue using Stack
 class queueBystack:
     def __init__(self):
         self.st1 = []
